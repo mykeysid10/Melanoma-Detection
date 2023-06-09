@@ -7,6 +7,8 @@ import numpy as np
 from PIL import Image
 from time import perf_counter
 import torch
+import requests
+from io import BytesIO
 
 class MelanomaDetection:
     def __init__(self):
@@ -14,7 +16,6 @@ class MelanomaDetection:
         self.cfg.merge_from_file(r"model/config.yml")
         self.cfg.MODEL.DEVICE = 'cpu'
         self.cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.6
-        self.cfg.MODEL.WEIGHTS = None
         response = requests.get("https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link")
         model_content = response.content
         # Load the .pth model file from memory
