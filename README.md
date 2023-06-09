@@ -1,4 +1,4 @@
-# Melanoma-Detection (Skin Cancer Detection)
+# Melanoma Detection (Skin Cancer Detection)
 
 #### Domain: Object Detection | Computer Vision
 
