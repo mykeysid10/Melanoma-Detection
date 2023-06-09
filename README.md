@@ -1,2 +1,2 @@
-# Melanoma-Detection
-Domain: Image Classification | Image Segmentation | Deep Learning | Computer Vision
+### Melanoma-Detection
+Domain: Object Detection | Computer Vision
