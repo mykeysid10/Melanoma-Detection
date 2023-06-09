@@ -11,10 +11,10 @@ import torch
 class MelanomaDetection:
     def __init__(self):
         self.cfg = get_cfg()
-        self.cfg.merge_from_file("config.yml")
+        self.cfg.merge_from_file(r"model/config.yml")
         self.cfg.MODEL.DEVICE = 'cpu'
         self.cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.6
-        self.cfg.MODEL.WEIGHTS = "model_final.pth"
+        self.cfg.MODEL.WEIGHTS = r"https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link"
         self.predictor = DefaultPredictor(self.cfg)
 
     
