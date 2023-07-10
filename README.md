@@ -8,6 +8,6 @@
 #### Demo Video
 
 <video controls>
-  <source src="https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/b2e01661-6ddd-47ba-bf60-86f16fbd8022" type="video/mp4">
+  <source src="Melanoma_Detection_Demo.mp4" type="video/mp4">
 </video>
 
