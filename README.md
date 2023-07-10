@@ -7,5 +7,5 @@
 
 #### Demo Video
 
-https://github.com/mykeysid10/Melanoma-Detection/blob/main/Melanoma_Detection_Demo.mp4 
+https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/5aff12fe-3ffd-4cd3-a86d-7ae04b8bde60
 
