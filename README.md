@@ -5,10 +5,9 @@
 #### Abstract:
 
 - Melanoma is a type of skin cancer.
-- It typically occurs when these cells undergo malignant transformations, resulting in the uncontrolled growth and spread of abnormal cells.
+- Occurs when cells undergo malignant transformations, resulting in the uncontrolled growth and spread of abnormal cells.
 - Melanoma can develop on any part of the body, including areas not exposed to the sun.
 - Benign refers to a non-cancerous condition or tumor.
-- In the context of skin lesions, a benign growth or lesion does not possess the characteristics of cancer.
 - Benign skin lesions are generally harmless and do not pose significant health risks.
 - Examples of benign skin lesions include moles, freckles, and skin tags.
 
