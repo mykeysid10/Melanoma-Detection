@@ -14,7 +14,7 @@
 
 #### Sample Images:
 
-![Non-Cancerous/Benign Image](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/ISIC_0052212.jpg "title-1") ![Cancerous/Malignant Image](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/ISIC_5602826.jpg "title-2")
+![Domain Knowledge](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/domain_knowledge.png)
 
 #### [Dataset Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)
 #### [Model Link](https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link)
