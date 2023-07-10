@@ -16,10 +16,10 @@
 
 ![Non-Cancerous/Benign Image](sample images/ISIC_0052212.jpg "title-1") ![Cancerous/Malignant Image](sample images/ISIC_5602826.jpg "title-2")
 
-#### [Data Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)
+#### [Dataset Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)
 #### [Model Link](https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link)
 
-#### Demo Video
+#### Demo Video:
 
 https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/5aff12fe-3ffd-4cd3-a86d-7ae04b8bde60
 
