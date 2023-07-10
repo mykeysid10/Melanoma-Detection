@@ -7,7 +7,5 @@
 
 #### Demo Video
 
-<video controls>
-  <source src="Melanoma_Detection_Demo.mp4" type="video/mp4">
-</video>
+https://github.com/mykeysid10/Melanoma-Detection/blob/main/Melanoma_Detection_Demo.mp4 
 
