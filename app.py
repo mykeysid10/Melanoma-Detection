@@ -28,9 +28,9 @@ def main():
     st.markdown(styled_subheader("Sample Images", "red", 1.6), unsafe_allow_html=True)
     col1, col2 = st.columns(2)
     with col1:
-        st.image(r"sample images\ISIC_0052212.jpg", caption="Benign")
+        st.image(r"Dataset\test\benign\ISIC_0052212.jpg", caption="Benign")
     with col2:
-        st.image(r"sample images\ISIC_0015256.jpg", caption="Malignant")
+        st.image(r"Dataset\test\malignant\ISIC_0015256.jpg", caption="Malignant")
 
     # Upload file container
     #st.subheader("Upload Image")
