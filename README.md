@@ -6,5 +6,6 @@
 #### [Model Link](https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link)
 
 #### Demo Video
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](Melanoma_Detection_Demo.mp4)
+<video src='Melanoma_Detection_Demo.mp4' width=180/>
+
 
