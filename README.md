@@ -2,24 +2,19 @@
 
 #### Domain: Object Detection | Computer Vision
 
-#### Abstract:
+#### Abstract & Approach:
 
-- Melanoma is a type of skin cancer.
-- Occurs when cells undergo malignant transformations, resulting in the uncontrolled growth and spread of abnormal cells.
-- Melanoma can develop on any part of the body, including areas not exposed to the sun.
-- Benign refers to a non-cancerous condition or tumor.
-- Benign skin lesions are generally harmless and do not pose significant health risks.
-- Examples of benign skin lesions include moles, freckles, and skin tags.
+- SMS ham/spam classification involves distinguishing between legitimate (ham) and unsolicited or unwanted (spam) text messages.
+- Ham Messages Samples: Lol your always so convincing | Sorry, I'll call later | I HAVE A DATE ON SUNDAY.
+- Spam Messages Samples: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005 | URGENT: Your account has been compromised.
+- Text preprocessing techniques used: tokenization, stemming, removing of stop words.
+- Feature engineering: extracting relevant features from the text using count vectorizer or Tfidf vectorizer.
+- Machine learning algorithms: Naive Bayes, Random Forests.
+- Evaluation metrics: accuracy, precision, recall and F1-score.
+- SMS ham/spam classification has various practical applications such as filtering unwanted messages, improving user experience and enhancing security.
 
-#### Sample Images:
+#### [Notebook Link](https://www.kaggle.com/code/mykeysid10/sms-spam-ham-classification-using-nlp)
 
-![Domain Knowledge](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/domain_knowledge.png)
+#### Demo Video: 
 
-#### [Dataset Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)
-#### [Model Link](https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link)
-
-#### Demo Video:
-
-https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/405e8cd8-ff17-4ecd-acee-d5145f99e71a
-
-
+https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/72c9f3ac-1ff3-4d72-9519-2c63a6a996ce
