@@ -1,6 +1,6 @@
 # Melanoma Detection (Skin Cancer)
 
-#### Project Aim: To detect if the image provided is skin cancerous or not.
+#### Project Aim: To Detect & Localize if the provided image is Benign or Malignant.
 
 #### Domain: Object Detection | Computer Vision 
 
