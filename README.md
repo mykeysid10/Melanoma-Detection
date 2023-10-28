@@ -15,8 +15,6 @@
 - Benign skin lesions are generally harmless and do not pose significant health risks.
 - Examples of benign skin lesions include moles, freckles, and skin tags.
 
-#### Sample Images:
-
 ![Domain Knowledge](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/domain_knowledge.png)
 
 #### Demo Video:
