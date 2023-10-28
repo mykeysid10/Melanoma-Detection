@@ -4,7 +4,7 @@
 
 #### Domain: Object Detection | Computer Vision 
 
-#### Links: [Dataset Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)  |  [Hugging Face Repo Link](https://huggingface.co/spaces/mykeysid10/melanoma-detection/tree/main)   |  [Web App Link](https://huggingface.co/spaces/mykeysid10/melanoma-detection)
+#### Links: [Hugging Face Repo Link](https://huggingface.co/spaces/mykeysid10/melanoma-detection/tree/main)   |   [Web App Link](https://huggingface.co/spaces/mykeysid10/melanoma-detection)
 
 #### Domain Knowledge:
 
