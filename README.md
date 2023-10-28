@@ -1,8 +1,12 @@
-# Melanoma Detection (Skin Cancer Detection)
+# Melanoma Detection (Skin Cancer)
+
+#### Project Aim: To detect if the image provided is skin cancerous or not.
 
 #### Domain: Object Detection | Computer Vision 
 
-#### Abstract:
+#### Links: [Dataset Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)  |  [Hugging Face Repo Link](https://huggingface.co/spaces/mykeysid10/melanoma-detection/tree/main)   |  [Web App Link](https://huggingface.co/spaces/mykeysid10/melanoma-detection)
+
+#### Domain Knowledge:
 
 - Melanoma is a type of skin cancer.
 - Occurs when cells undergo malignant transformations, resulting in the uncontrolled growth and spread of abnormal cells.
@@ -15,11 +19,6 @@
 
 ![Domain Knowledge](https://github.com/mykeysid10/Melanoma-Detection/blob/main/sample%20images/domain_knowledge.png)
 
-#### [Dataset Link](https://drive.google.com/file/d/1tco9WTg0yZ6-Y0tQ5pFPR4vAzZ63Yd9d/view?usp=drive_link)
-#### [Model Link](https://drive.google.com/file/d/1XZeJmq7pE4X5r8tQDYPZpBx4P21b_oug/view?usp=drive_link)
-
 #### Demo Video:
 
 https://github.com/mykeysid10/Melanoma-Detection/assets/70707011/405e8cd8-ff17-4ecd-acee-d5145f99e71a
-
-
